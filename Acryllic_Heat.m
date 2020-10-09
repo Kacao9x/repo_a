@@ -2,7 +2,7 @@ clear all
 %close all
 Fs = 7.2e8;
 
-%some constant value
+%some constant value. Change me when you are done
 Acryl_Signal_Low = 28.52;
 Acryl_Signal_High = 30.61;
 
